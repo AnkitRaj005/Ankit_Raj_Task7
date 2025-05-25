@@ -1,0 +1,140 @@
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/appsettings.Development.json
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/appsettings.json
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/dotnet-server
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/dotnet-server.deps.json
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/dotnet-server.runtimeconfig.json
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/dotnet-server.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/dotnet-server.pdb
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/DnsClient.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/MongoDB.Bson.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/MongoDB.Driver.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/SharpCompress.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Snappier.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/programs/c-shrap-dotnet/dotnet-server/bin/Debug/net8.0/ZstdSharp.dll
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.csproj.AssemblyReference.cache
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.GeneratedMSBuildEditorConfig.editorconfig
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.AssemblyInfoInputs.cache
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.AssemblyInfo.cs
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.csproj.CoreCompileInputs.cache
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.MvcApplicationPartsAssemblyInfo.cs
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.MvcApplicationPartsAssemblyInfo.cache
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/staticwebassets.build.json
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/staticwebassets.development.json
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/staticwebassets/msbuild.dotnet-server.Microsoft.AspNetCore.StaticWebAssets.props
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/staticwebassets/msbuild.build.dotnet-server.props
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.dotnet-server.props
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.dotnet-server.props
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/staticwebassets.pack.json
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/scopedcss/bundle/dotnet-server.styles.css
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.csproj.CopyComplete
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.dll
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/refint/dotnet-server.dll
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.pdb
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/dotnet-server.genruntimeconfig.cache
+/home/programs/c-shrap-dotnet/dotnet-server/obj/Debug/net8.0/ref/dotnet-server.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/appsettings.Development.json
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/appsettings.json
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/dotnet-server
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/dotnet-server.deps.json
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/dotnet-server.runtimeconfig.json
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/dotnet-server.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/dotnet-server.pdb
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/DnsClient.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/MongoDB.Bson.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/MongoDB.Driver.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/SharpCompress.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Snappier.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/bin/Debug/net8.0/ZstdSharp.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.csproj.AssemblyReference.cache
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.GeneratedMSBuildEditorConfig.editorconfig
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.AssemblyInfoInputs.cache
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.AssemblyInfo.cs
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.csproj.CoreCompileInputs.cache
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.MvcApplicationPartsAssemblyInfo.cs
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.MvcApplicationPartsAssemblyInfo.cache
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.sourcelink.json
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/staticwebassets.build.json
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/staticwebassets.development.json
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/staticwebassets/msbuild.dotnet-server.Microsoft.AspNetCore.StaticWebAssets.props
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/staticwebassets/msbuild.build.dotnet-server.props
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.dotnet-server.props
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.dotnet-server.props
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/staticwebassets.pack.json
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/scopedcss/bundle/dotnet-server.styles.css
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.csproj.CopyComplete
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/refint/dotnet-server.dll
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.pdb
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/dotnet-server.genruntimeconfig.cache
+/home/programs/Capsitech Training/Module 7 Task/dotnet-server/obj/Debug/net8.0/ref/dotnet-server.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\appsettings.json
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\dotnet-server.staticwebassets.endpoints.json
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\dotnet-server.exe
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\dotnet-server.deps.json
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\dotnet-server.runtimeconfig.json
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\dotnet-server.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\dotnet-server.pdb
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\DnsClient.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Snappier.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-server.csproj.AssemblyReference.cache
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-server.AssemblyInfoInputs.cache
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-server.AssemblyInfo.cs
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-server.csproj.CoreCompileInputs.cache
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\scopedcss\bundle\dotnet-server.styles.css
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-s.C003D4C1.Up2Date
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-server.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\refint\dotnet-server.dll
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-server.pdb
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\dotnet-server.genruntimeconfig.cache
+C:\Users\ANKIT RAJ\Desktop\Module 7 Task\dotnet-server\obj\Debug\net8.0\ref\dotnet-server.dll
